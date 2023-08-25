@@ -1,0 +1,12 @@
+[submodule "Chat_server"]
+	path = Chat_server
+	url = https://github.com/JKP-2001/Chatting-Socket.git
+[submodule "MS_TEAMS_clone"]
+	path = MS_TEAMS_clone
+	url = https://github.com/JKP-2001/MS_Teams_Frontend
+[submodule "Backend-MS-Teams-Clone"]
+	path = Backend-MS-Teams-Clone
+	url = https://github.com/JKP-2001/MS-Teams-New-Backend.git
+[submodule "Chat_Server"]
+	path = Chat_Server
+	url = https://github.com/JKP-2001/Chatting-Socket.git
